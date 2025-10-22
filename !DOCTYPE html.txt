@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Nightmare Boost Market</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Nightmare Boost Market</h1>
+    <p>Official hub by BelovedGoat 🐐</p>
+    <nav>
+      <a href="#clips">Clips</a>
+      <a href="#join">Join</a>
+      <a href="#about">About</a>
+    </nav>
+  </header>
+
+  <section id="clips">
+    <h2>Clips & Highlights</h2>
+    <div class="clips-container">
+      <div class="clip">
+        <img src="assets/clip1.jpg" alt="Clip 1">
+        <p>Epic Brawl Stars gameplay!</p>
+      </div>
+      <div class="clip">
+        <img src="assets/clip2.jpg" alt="Clip 2">
+        <p>Top club moments!</p>
+      </div>
+    </div>
+  </section>
+
+  <section id="join">
+    <h2>Join Our Community</h2>
+    <p>Connect with us on WhatsApp or Discord:</p>
+    <a href="YOUR_WHATSAPP_LINK" class="btn">WhatsApp</a>
+    <a href="YOUR_DISCORD_LINK" class="btn">Discord</a>
+  </section>
+
+  <section id="about">
+    <h2>About Nightmare Boost Market</h2>
+    <p>Welcome to BelovedGoat's official Brawl Stars club hub. Share clips, compete, and connect with an active community. Level up with the Goat! 🐐</p>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 BelovedGoat | All rights reserved</p>
+  </footer>
+</body>
+</html>

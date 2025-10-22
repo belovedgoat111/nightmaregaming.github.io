@@ -1,0 +1,6 @@
+index.html
+style.css
+assets/
+  clip1.jpg
+  clip2.jpg
+
